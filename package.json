@@ -43,7 +43,7 @@
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "vitest": "^4.0.17",
-    "wrangler": "^4.59.1"
+    "wrangler": "^4.64.0"
   },
   "overrides": {
     "entities": "^7.0.0",
