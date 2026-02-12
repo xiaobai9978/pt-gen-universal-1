@@ -42,7 +42,7 @@
     "prettier": "^3.4.2",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.17",
+    "vitest": "^4.0.18",
     "wrangler": "^4.59.1"
   },
   "overrides": {
